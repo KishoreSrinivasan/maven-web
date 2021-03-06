@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>VK Technologies Releases Nexus Repository</name>
-	      <url>http://15.207.100.35:8081/repository/amazon-Release/</url>
+	      <url>http://54.189.254.88:8081/repository/MyRepositoryRelease/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>VK Technologies Snapshot Nexus Repository </name>
-	      <url>http://15.207.100.35:8081/repository/amazon-snapshot/</url>
+	      <url>http://54.189.254.88:8081/repository/MyRepository-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
