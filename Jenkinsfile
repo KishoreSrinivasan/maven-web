@@ -1,15 +1,11 @@
 pipeline {
-   agent any
+  agent any
+  
   stages {
-    stage('build') {
+    stage('first') {
       steps {
-        echo 'build application ....'
-      }
-    stage('test') {
-      steps {
-        echo 'build application ....'
+        echo 'first, non-parallel stage'
       }
     }
-      }
   }
 }
