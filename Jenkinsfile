@@ -9,6 +9,7 @@ pipeline {
       steps {
         echo 'build application ....'
       }
+    }
       }
   }
 }
